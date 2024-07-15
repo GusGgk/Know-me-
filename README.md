@@ -28,4 +28,5 @@ Além disso, participei de cursos de metodologias ágeis, que são essenciais pa
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GusGgk&repo=lab-natty-or-not&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/GusGgk/lab-natty-or-not) <br>
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GusGgk&repo=Creating_Banking_System&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/GusGgk/Creating_Banking_System)<br>
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GusGgk&repo=banking-system-2.0&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/GusGgk/banking-system-2.0)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GusGgk&repo=banking-system-2.0&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/GusGgk/banking-system-2.0) <br>
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GusGgk&repo=Version_3_Banking_System&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/GusGgk/Version_3_Banking_System)
